@@ -1,0 +1,361 @@
+{
+  "maize": [
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Mehiã be woawɔ naneke o, edze abe agblemenukuwo le lãmesẽ me ene."],
+        "chemical": [
+          "Mehiã be woawɔ naneke o, edze abe agblemenukuwo le lãmesẽ me ene.",
+          "Míele dzi dem ƒo na wò be nàyi nu si wɔm nèle va se ɖe fifia la dzi."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Common Rust",
+      "causes": [
+        "Puccinia Sorghi ye hea dɔlélea vɛ. Ya kple tsidzadza ate ŋu atsɔ aklãdɔ sia ƒe nudzodzoewo ayi didiƒe ʋĩi. Ne woƒo ke ɖe atiwo ƒe aŋgbawo dzi la, wodzea dɔdɔ sia gɔme."
+      ],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewutikewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Ne ya si le xɔ me la le kekem kabakaba la, zã aŋgbawo ƒe atikuwutike le ƒea ƒe gɔmedzedze",
+          "Atike siwo wotsɔ wɔa dɔe siwo nye mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad ate ŋu akpe ɖe dɔlélea ŋu.",
+          "Dɔdamɔnu aɖe si woate ŋu azã anye mancozeb si woatsɔe ade ami me le 2.5 g/l me ne aŋɔkawo do ko eye woagawɔe le ŋkeke 10 ƒe vovototo me vaseɖe esime seƒoƒowo nadze."
+        ]
+      },
+      "preventive_measures": [
+        "Ati siwo me atiwo metea ŋu nɔa te ɖo o siwo le afi ma",
+        "miƒãa nu kaba ale be dɔlélewo nagava xɔ aƒe ɖe teƒea o",
+        "zãa ati ƒomevi siwo tsi kaba le ɣeyiɣi kpui aɖe ko me",
+        "Lé ŋku ɖe nu siwo ŋu dɔ sia le ŋu edziedzi, vevietɔ le yame si me alilikpowo le me",
+        "Na woade ami si me nitrogen le la mɔ̃ me",
+        "Ŋlɔ agblemenu siwo ŋu nu metsina le o la ƒe tɔtrɔ"
+      ]
+    },
+    {
+      "disease": "Cercospora Leaf Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewutikewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Ne ya si le xɔ me la le kekem kabakaba la, zã aŋgbawo ƒe atikuwutike le ƒea ƒe gɔmedzedze",
+          "Atike siwo wotsɔ wɔa dɔe siwo nye mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad ate ŋu akpe ɖe dɔlélea ŋu.",
+          "Dɔdamɔnu aɖe si woate ŋu azã anye mancozeb si woatsɔe ade ami me le 2.5 g/l me ne aŋɔkawo do ko eye woagawɔe le ŋkeke 10 ƒe vovototo me vaseɖe esime seƒoƒowo nadze."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Northern Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewutikewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Ne ya si le xɔ me la le kekem kabakaba la, zã aŋgbawo ƒe atikuwutike le ƒea ƒe gɔmedzedze",
+          "Atike siwo wotsɔ wɔa dɔe siwo nye mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad ate ŋu akpe ɖe dɔlélea ŋu.",
+          "Dɔdamɔnu aɖe si woate ŋu azã anye mancozeb si woatsɔe ade ami me le 2.5 g/l me ne aŋɔkawo do ko eye woagawɔe le ŋkeke 10 ƒe vovototo me vaseɖe esime seƒoƒowo nadze."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Streak",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewutikewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Ne ya si le xɔ me la le kekem kabakaba la, zã aŋgbawo ƒe atikuwutike le ƒea ƒe gɔmedzedze",
+          "Atike siwo wotsɔ wɔa dɔe siwo nye mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad ate ŋu akpe ɖe dɔlélea ŋu.",
+          "Dɔdamɔnu aɖe si woate ŋu azã anye mancozeb si woatsɔe ade ami me le 2.5 g/l me ne aŋɔkawo do ko eye woagawɔe le ŋkeke 10 ƒe vovototo me vaseɖe esime seƒoƒowo nadze."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "pepper": [
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Cercospora",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Mehiã be woawɔ naneke o, edze abe agblemenukuwo le lãmesẽ me ene."],
+        "chemical": [
+          "Mehiã be woawɔ naneke o, edze abe agblemenukuwo le lãmesẽ me ene.",
+          "Míele dzi dem ƒo na wò be nàyi nu si wɔm nèle va se ɖe fifia la dzi."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "tomato": [
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Mehiã be woawɔ naneke o, edze abe agblemenukuwo le lãmesẽ me ene."],
+        "chemical": [
+          "Mehiã be woawɔ naneke o, edze abe agblemenukuwo le lãmesẽ me ene.",
+          "Míele dzi dem ƒo na wò be nàyi nu si wɔm nèle va se ɖe fifia la dzi."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Womekpɔ dɔdamɔnu bubu aɖeke le dɔléle sia ŋu fifia o. míetrɔa asi le míaƒe nyatakakadzraɖoƒea ŋu edziedzi, kpɔe ɖa emegbe alo nàɖo dze kpli mí tso kpekpeɖeŋu ƒe axa dzi"
+        ],
+        "chemical": [
+          "Bu nu siwo katã ŋu woate ŋu awɔ dɔ le la ŋu ɣesiaɣi, eye nàtsɔ nuxexlẽ kple atike siwo me atikewo le la akpe ɖe eŋu ne anya wɔ",
+          "Ne wozãa atikewɔtike aɖewo ɖe ati ƒomevi siwo ŋu dɔ sia gblẽa nu le ŋu la, ate ŋu aɖe vi",
+          "Bia nyatakaka tso dɔnɔa ƒe dɔléle ŋu tso dɔnɔa ƒe lãmesẽnyawo gbɔ."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ]
+}

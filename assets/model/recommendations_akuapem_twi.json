@@ -1,0 +1,363 @@
+{
+  "maize": [
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Ɛho nhia sɛ yɛyɛ biribiara, wo nnɔbae no te apɔw"],
+        "chemical": [
+          "Ɛho nhia sɛ yɛyɛ biribiara, wo nnɔbae no te apɔw",
+          "Ɛfata sɛ wokɔ so yɛ nea woreyɛ no besi saa bere yi"
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Common Rust",
+      "causes": [
+        "Yare no fi mmoawammoawa Puccinia Sorghi. Mmoawammoawa yi tumi de mframa ne osu fa wɔn kɔ akyirikyiri. Wodi nkuraase a wɔtow gu nnua so no ho dwuma."
+      ],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua gu nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ ewim tebea no nti, sɛ ntontom no trɛw ntɛmntɛm a, fa ntini mu nnuru a wɔde kum nkekae no di dwuma wɔ bere a edi kan wɔ osutɔbere mu",
+          "Wɔwɔ nnuru pii a wɔde kum nkwammoaa a wɔde ko tia awuduru, wobetumi de nnuru a wɔde di dwuma de adi yare no so.",
+          "Nhwɛso bi ne sɛ, sɛ wɔtew no a, wobetumi ahwiee mancozeb mu nsu a ɛboro gram 2.5/l no agu no so ntɛm ara, na wɔasan de aba no bi adi dwuma wɔ nnafua 10 ntam kosi sɛ afifide no bɛgu."
+        ]
+      },
+      "preventive_measures": [
+        "Nnua ahorow a enni ntini a ɛwɔ hɔ",
+        "Monyɛ ntɛm mfa nsiesie mo ho mma nyarewa no",
+        "fa nnua ahorow a wɔtew bere tiaa mu a enyin ntɛm",
+        "Monitor crop regularly for signs of the disease, even more so during overcast weather",
+        "Hwɛ sɛ yare no ho nsɛnkyerɛnne bi wɔ afuw no mu bere nyinaa, titiriw bere a ewim ayɛ kusuu no",
+        "Sɛ nnɔbae a wɔatwa no nyɛ yiye a, ɛsɛ sɛ yɛhwɛ sɛ yɛbɛhwɛ sɛ nnɔbae no bɛsesa."
+      ]
+    },
+    {
+      "disease": "Cercospora Leaf Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua gu nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ ewim tebea no nti, sɛ ntontom no trɛw ntɛmntɛm a, fa ntini mu nnuru a wɔde kum nkekae no di dwuma wɔ bere a edi kan wɔ osutɔbere mu",
+          "Wɔwɔ nnuru pii a wɔde kum nkwammoaa a wɔde ko tia awuduru, wobetumi de nnuru a wɔde di dwuma de adi yare no so.",
+          "Nhwɛso bi ne sɛ, sɛ wɔtew no a, wobetumi ahwiee mancozeb mu nsu a ɛboro gram 2.5/l no agu no so ntɛm ara, na wɔasan de aba no bi adi dwuma wɔ nnafua 10 ntam kosi sɛ afifide no bɛgu."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Northern Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua gu nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ ewim tebea no nti, sɛ ntontom no trɛw ntɛmntɛm a, fa ntini mu nnuru a wɔde kum nkekae no di dwuma wɔ bere a edi kan wɔ osutɔbere mu",
+          "Wɔwɔ nnuru pii a wɔde kum nkwammoaa a wɔde ko tia awuduru, wobetumi de nnuru a wɔde di dwuma de adi yare no so.",
+          "Nhwɛso bi ne sɛ, sɛ wɔtew no a, wobetumi ahwiee mancozeb mu nsu a ɛboro gram 2.5/l no agu no so ntɛm ara, na wɔasan de aba no bi adi dwuma wɔ nnafua 10 ntam kosi sɛ afifide no bɛgu."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Streak",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua gu nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ ewim tebea no nti, sɛ ntontom no trɛw ntɛmntɛm a, fa ntini mu nnuru a wɔde kum nkekae no di dwuma wɔ bere a edi kan wɔ osutɔbere mu",
+          "Wɔwɔ nnuru pii a wɔde kum nkwammoaa a wɔde ko tia awuduru, wobetumi de nnuru a wɔde di dwuma de adi yare no so.",
+          "Nhwɛso bi ne sɛ, sɛ wɔtew no a, wobetumi ahwiee mancozeb mu nsu a ɛboro gram 2.5/l no agu no so ntɛm ara, na wɔasan de aba no bi adi dwuma wɔ nnafua 10 ntam kosi sɛ afifide no bɛgu."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "pepper": [
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua gu nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ ewim tebea no nti, sɛ ntontom no trɛw ntɛmntɛm a, fa ntini mu nnuru a wɔde kum nkekae no di dwuma wɔ bere a edi kan wɔ osutɔbere mu",
+          "Wɔwɔ nnuru pii a wɔde kum nkwammoaa a wɔde ko tia awuduru, wobetumi de nnuru a wɔde di dwuma de adi yare no so.",
+          "Nhwɛso bi ne sɛ, sɛ wɔtew no a, wobetumi ahwiee mancozeb mu nsu a ɛboro gram 2.5/l no agu no so ntɛm ara, na wɔasan de aba no bi adi dwuma wɔ nnafua 10 ntam kosi sɛ afifide no bɛgu."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Cercospora",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Ɛho nhia sɛ yɛyɛ biribiara, wo nnɔbae no te apɔw"],
+        "chemical": [
+          "Ɛho nhia sɛ yɛyɛ biribiara, wo nnɔbae no te apɔw",
+          "Ɛfata sɛ wokɔ so yɛ nea woreyɛ no besi saa bere yi"
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "tomato": [
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Ɛho nhia sɛ yɛyɛ biribiara, wo nnɔbae no te apɔw"],
+        "chemical": [
+          "Ɛho nhia sɛ yɛyɛ biribiara, wo nnɔbae no te apɔw",
+          "Ɛfata sɛ wokɔ so yɛ nea woreyɛ no besi saa bere yi"
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Saa bere yi, ayaresa foforo biara nni hɔ a wɔde sa yare yi. Yɛtaa yɛ nsakrae wɔ yɛn nhyehyɛe mu, na yɛsan kɔhwehwɛ mu akyiri yi anaa yɛfa mmoa kratafa no so ne yɛn di nkitaho."
+        ],
+        "chemical": [
+          "Sɛ ɛbɛyɛ yiye a, susuw akwan horow a wobetumi afa so asiw ano ne nnuru a wɔde siw ano ho",
+          "Sɛ wɔde nnuru a wɔde kum nkosua a wɔn ho yɛ hu di dwuma wɔ nnua ahorow a wɔn ho yɛ hu so a, ebetumi aboa",
+          "Sɛ yare no mu yɛ den a, wo ne w'abusuafo a wɔwɔ hɔ no mmɔ nkɔmmɔ na hu nnuru a eye sen biara a wɔde bedi dwuma."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ]
+}

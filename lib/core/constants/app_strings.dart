@@ -1,0 +1,30 @@
+String get orgName => "RAIL";
+String get appName => "Crop Disease Detector";
+String get getStartedText => "Get Started";
+String get railUrlName => "www.rail.knust.edu.gh";
+String get railUrl => "https://rail.knust.edu.gh/";
+String get railTwitterUrl => "https://twitter.com/rail_knust";
+String get railFacebookUrl => "https://www.facebook.com/RAIL-KNUST-107804845147424/";
+String get railLinkedInUrl => "https://www.linkedin.com/company/78744536/admin/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BW7ga9nK5Q3WdDdt4FmfCWg%3D%3D";
+String get railYoutubeUrl => "https://www.youtube.com/channel/UCWtzPgRpIDXrZ_EJMSPfjXw";
+String get railInstagramUrl => "https://www.instagram.com/rail_knust/";
+String get privacyPolicyUrl => "https://www.termsfeed.com/live/f4bfe235-2c31-4bc2-8484-2ccd65babe1a";
+String get copyrightSymbol => "©";
+String get register => "Register";
+String get login => "Login";
+String get noAccount => "Don't have an account ? ";
+String get alreadyAccount => "Already have an account ? ";
+String get passwordPrompt => "Password must be at least 6 characters long";
+String get userNamePrompt => "User Name must be at least 3 characters long";
+String get invalidPhone => "Invalid Phone Number";
+String get passwordHint => "Password";
+String get phoneNumberHint => "Phone Number";
+String get userNameHint => "User Name";
+String get signUpText => "Sign Up";
+String get signInText => "Sign In";
+String get signOutText => "Sign Out";
+String get myProfileText => "My Profile";
+String get aboutPlantDetectionApp => "Plant Disease Detector is a project created by research students of KNUST under RAIL to help local farmers tackle most of the common disease "
+    "that plaque their crops by providing hands on remedies for the diseases detected.";
+String get placeHolderText => "Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. "
+    "Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. Lorem Ipsum Dolor sit amet. ";

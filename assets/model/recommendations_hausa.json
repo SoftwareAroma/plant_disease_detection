@@ -1,0 +1,361 @@
+{
+  "maize": [
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Babu wani abu da za a yi, amfanin gonarku yana da kyau."],
+        "chemical": [
+          "Babu wani abu da za a yi, amfanin gonarku yana da kyau.",
+          "Ana ba da shawarar ka ci gaba da abin da kake yi har zuwa wannan lokacin."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Common Rust",
+      "causes": [
+        "Cutar ta haifar da naman gwari Puccinia Sorghi. Spores na wannan naman gwari na iya hawa nesa da iska da ruwan sama. Suna fara tsarin kamuwa da cuta lokacin da suka sauka a kan ganye na amfanin gona. kamuwa da cuta na biyu na iya faruwa saboda iska ko ruwan sama."
+      ],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai",
+          "Yin amfani da magungunan kashe fungi zai iya zama da amfani idan aka yi amfani da su a kan iri masu saukin kamuwa da cutar",
+          "A yi amfani da maganin kashe fungi a farkon kakar idan tsatsa za ta bazu da sauri saboda yanayin yanayi",
+          "Akwai magungunan kashe fungi da yawa don magance tsatsa, ana iya amfani da kayayyakin da ke dauke da mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, don sarrafa cutar.",
+          "Misali na magani zai iya zama fesa mancozeb a 2.5g/l da zaran pustules sun bayyana kuma maimaitawa a tsakanin kwanaki 10 har zuwa flowering."
+        ]
+      },
+      "preventive_measures": [
+        "Nau'in tsire-tsire masu tsayayya da tsire-tsire da ke samuwa a gida.",
+        "shuka da wuri don kauce wa yanayi mafi kyau ga cututtuka",
+        "amfani da gajeren lokaci iri da suka girma da wuri",
+        "Ka riƙa lura da amfanin gona a kai a kai don ka ga ko akwai alamun cutar, musamman a lokacin da sama ya yi duhu",
+        "Tabbatar da daidaitaccen takin mai magani tare da rarraba aikace-aikacen nitrogen",
+        "Shirya wani girbi na girbi tare da amfanin gona ba mai karɓa ba"
+      ]
+    },
+    {
+      "disease": "Cercospora Leaf Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai",
+          "Yin amfani da magungunan kashe fungi zai iya zama da amfani idan aka yi amfani da su a kan iri masu saukin kamuwa da cutar",
+          "A yi amfani da maganin kashe fungi a farkon kakar idan tsatsa za ta bazu da sauri saboda yanayin yanayi",
+          "Akwai magungunan kashe fungi da yawa don magance tsatsa, ana iya amfani da kayayyakin da ke dauke da mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, don sarrafa cutar.",
+          "Misali na magani zai iya zama fesa mancozeb a 2.5g/l da zaran pustules sun bayyana kuma maimaitawa a tsakanin kwanaki 10 har zuwa flowering."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Northern Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai",
+          "Yin amfani da magungunan kashe fungi zai iya zama da amfani idan aka yi amfani da su a kan iri masu saukin kamuwa da cutar",
+          "A yi amfani da maganin kashe fungi a farkon kakar idan tsatsa za ta bazu da sauri saboda yanayin yanayi",
+          "Akwai magungunan kashe fungi da yawa don magance tsatsa, ana iya amfani da kayayyakin da ke dauke da mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, don sarrafa cutar.",
+          "Misali na magani zai iya zama fesa mancozeb a 2.5g/l da zaran pustules sun bayyana kuma maimaitawa a tsakanin kwanaki 10 har zuwa flowering."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Streak",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai",
+          "Yin amfani da magungunan kashe fungi zai iya zama da amfani idan aka yi amfani da su a kan iri masu saukin kamuwa da cutar",
+          "A yi amfani da maganin kashe fungi a farkon kakar idan tsatsa za ta bazu da sauri saboda yanayin yanayi",
+          "Akwai magungunan kashe fungi da yawa don magance tsatsa, ana iya amfani da kayayyakin da ke dauke da mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, don sarrafa cutar.",
+          "Misali na magani zai iya zama fesa mancozeb a 2.5g/l da zaran pustules sun bayyana kuma maimaitawa a tsakanin kwanaki 10 har zuwa flowering."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "pepper": [
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Cercospora",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Babu wani abu da za a yi, amfanin gonarku yana da kyau."],
+        "chemical": [
+          "Babu wani abu da za a yi, amfanin gonarku yana da kyau.",
+          "Ana ba da shawarar ka ci gaba da abin da kake yi har zuwa wannan lokacin."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "tomato": [
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Babu wani abu da za a yi, amfanin gonarku yana da kyau."],
+        "chemical": [
+          "Babu wani abu da za a yi, amfanin gonarku yana da kyau.",
+          "Ana ba da shawarar ka ci gaba da abin da kake yi har zuwa wannan lokacin."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "Babu wani magani na madadin wannan cuta a wannan lokacin. muna sabunta tsarin a kai a kai, duba baya daga baya ko tuntube mu daga shafin taimako"
+        ],
+        "chemical": [
+          "Koyaushe la'akari da tsarin da aka haɗa tare da matakan rigakafi tare da maganin halitta idan akwai.",
+          "Yin amfani da takamaiman maganin kashe fungi na iya zama da amfani idan aka yi amfani da shi a kan iri masu saukin kamuwa.",
+          "Ka tuntuɓi ƙwararrun mutane a wurin don sanin maganin da ya fi dacewa da cutar."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ]
+}

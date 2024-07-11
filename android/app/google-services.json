@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "597210303252",
+    "project_id": "cdd-rail",
+    "storage_bucket": "cdd-rail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597210303252:android:a5dcee238107309a449001",
+        "android_client_info": {
+          "package_name": "com.rail.edu.knust.plant_disease_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597210303252-ehetcjmnqbk0hmodhbvlorso90okf17l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNtaefj7wDfO_KV4ANLiK_X_AS-f3cjSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597210303252-ehetcjmnqbk0hmodhbvlorso90okf17l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597210303252-2u6ctaeovsmkl8rkuj6ot98en73euesj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rail.edu.knust.plantDiseaseDetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,361 @@
+{
+  "maize": [
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Nothing need to be done, your crop appears to be in a healthy condition"],
+        "chemical": [
+          "Nothing need to be done, your crop appears to be in a healthy condition",
+          "It is recommended you keep up what you have been doing to this point."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Common Rust",
+      "causes": [
+        "The disease is caused by fungus Puccinia Sorghi. The spores of this fungus can be transported over great distances by winds and rain. They start the infection process when landing on leaves of crops. secondary infection can occur due to wind or rain"
+      ],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. we update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of fungicides can be beneficial when used on susceptible varieties",
+          "Apply a foliar fungicide early in the season if rust is bound to spread rapidly due to the weather conditions",
+          "Numerous fungicides are available for rust control, products containing mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, can be used to control the disease.",
+          "An example of treatment could be spraying mancozeb @ 2.5g/l as soon as pustules appear and repeat at 10 days interval till flowering."
+        ]
+      },
+      "preventive_measures": [
+        "Plant resistant varieties available locally",
+        "plant early to avoid optimal conditions for infections",
+        "use shorter season varieties that mature early",
+        "Monitor crop regularly for signs of the disease, even more so during overcast weather",
+        "Ensure balanced fertilization with split application of nitrogen",
+        "Plan a crop rotation with non-susceptible crops"
+      ]
+    },
+    {
+      "disease": "Cercospora Leaf Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. we update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of fungicides can be beneficial when used on susceptible varieties",
+          "Apply a foliar fungicide early in the season if rust is bound to spread rapidly due to the weather conditions",
+          "Numerous fungicides are available for rust control, products containing mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, can be used to control the disease.",
+          "An example of treatment could be spraying mancozeb @ 2.5g/l as soon as pustules appear and repeat at 10 days interval till flowering."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Northern Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. we update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of fungicides can be beneficial when used on susceptible varieties",
+          "Apply a foliar fungicide early in the season if rust is bound to spread rapidly due to the weather conditions",
+          "Numerous fungicides are available for rust control, products containing mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, can be used to control the disease.",
+          "An example of treatment could be spraying mancozeb @ 2.5g/l as soon as pustules appear and repeat at 10 days interval till flowering."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Streak",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. we update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of fungicides can be beneficial when used on susceptible varieties",
+          "Apply a foliar fungicide early in the season if rust is bound to spread rapidly due to the weather conditions",
+          "Numerous fungicides are available for rust control, products containing mancozeb, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, can be used to control the disease.",
+          "An example of treatment could be spraying mancozeb @ 2.5g/l as soon as pustules appear and repeat at 10 days interval till flowering."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "pepper": [
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Cercospora",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific bactericides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Nothing need to be done, your crop appears to be in a healthy condition"],
+        "chemical": [
+          "Nothing need to be done, your crop appears to be in a healthy condition",
+          "It is recommended you keep up what you have been doing to this point."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ],
+  "tomato": [
+    {
+      "disease": "Late Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Early Blight",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Bacterial Spot",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific bactericides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Septoria",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Fusarium",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Leaf Curl",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Healthy",
+      "causes": [],
+      "recommendations": {
+        "organic": ["Nothing need to be done, your crop appears to be in a healthy condition"],
+        "chemical": [
+          "Nothing need to be done, your crop appears to be in a healthy condition",
+          "It is recommended you keep up what you have been doing to this point."
+        ]
+      },
+      "preventive_measures": []
+    },
+    {
+      "disease": "Mosaic",
+      "causes": [],
+      "recommendations": {
+        "organic": [
+          "No alternative treatment against this disease is available at this moment. We update the system regularly, check back later or get in touch from the help page"
+        ],
+        "chemical": [
+          "Always consider an integrated approach with preventive measures together with biological treatments if available",
+          "The application of specific fungicides can be beneficial when used on susceptible varieties",
+          "Consult with local experts for the most suitable chemical treatment based on the severity of the disease."
+        ]
+      },
+      "preventive_measures": []
+    }
+  ]
+}
