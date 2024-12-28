@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCh1Vi9hSenJsMBhyWEhjV0_xxNzdl2zJw',
-    appId: '1:597210303252:web:118b05913d71a219449001',
+    appId: '1:597210303252:web:41645aacb3f83f97449001',
     messagingSenderId: '597210303252',
     projectId: 'cdd-rail',
     authDomain: 'cdd-rail.firebaseapp.com',
     storageBucket: 'cdd-rail.appspot.com',
-    measurementId: 'G-B1NNC1RM0V',
+    measurementId: 'G-73NBG9QBNQ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCNtaefj7wDfO_KV4ANLiK_X_AS-f3cjSE',
-    appId: '1:597210303252:android:3bd27b11b902b9c7449001',
+    appId: '1:597210303252:android:a5dcee238107309a449001',
     messagingSenderId: '597210303252',
     projectId: 'cdd-rail',
     storageBucket: 'cdd-rail.appspot.com',
@@ -60,7 +60,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBi3D5QlHjdVaxipzruMfjA2fNG-vtAbRo',
-    appId: '1:597210303252:ios:ec6f56886ff0c523449001',
+    appId: '1:597210303252:ios:eb9d7c3e5ef0b4f2449001',
     messagingSenderId: '597210303252',
     projectId: 'cdd-rail',
     storageBucket: 'cdd-rail.appspot.com',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyBi3D5QlHjdVaxipzruMfjA2fNG-vtAbRo',
-    appId: '1:597210303252:ios:ec6f56886ff0c523449001',
+    appId: '1:597210303252:ios:eb9d7c3e5ef0b4f2449001',
     messagingSenderId: '597210303252',
     projectId: 'cdd-rail',
     storageBucket: 'cdd-rail.appspot.com',
@@ -80,11 +80,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyCh1Vi9hSenJsMBhyWEhjV0_xxNzdl2zJw',
-    appId: '1:597210303252:web:c295c838d1ce401e449001',
+    appId: '1:597210303252:web:77f190dbe6506f80449001',
     messagingSenderId: '597210303252',
     projectId: 'cdd-rail',
     authDomain: 'cdd-rail.firebaseapp.com',
     storageBucket: 'cdd-rail.appspot.com',
-    measurementId: 'G-0ENYBLXHGE',
+    measurementId: 'G-21GKGS3V6M',
   );
 }
